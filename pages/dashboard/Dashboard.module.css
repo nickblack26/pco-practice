@@ -1,0 +1,11 @@
+.dashboardContent {
+	display: flex;
+	height: 100%;
+	gap: 3rem;
+}
+
+.dashboardWrap {
+	display: flex;
+	flex-direction: column;
+	flex: 1;
+}
